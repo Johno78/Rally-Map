@@ -1,0 +1,13 @@
+{
+  "name": "Rally Test Map Maker",
+  "short_name": "Test Maps",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#d4d9d5",
+  "theme_color": "#1d2b22",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
